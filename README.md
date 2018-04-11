@@ -4,4 +4,4 @@ Node DNS server.
 
 # Usage
 
-Node lookup.js <domain>
+'node lookup.js <domain>'
